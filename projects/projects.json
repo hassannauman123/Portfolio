@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Subscription Tracker Android App",
+    "desc": "Full-Stack Subscription Tracker built using Android Studio and HSQLDB for efficient data storage",
+    "image": "trackit",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/hassannauman123/Subscription-Tracker-Android-Application",
+      "code": "https://github.com/hassannauman123/Subscription-Tracker-Android-Application/blob/develop/app/src/main/java/com/track_it/domainobject/SubscriptionObj.java"
+    }
+  },
+  {
+    "name": "Winnipeg Urban-Planning System",
+    "desc": "  A Java and SQL project that helps urban and regional planners analyze live data from the City of Winnipeg website to make informed decisions.",
+    "image": "sql",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/hassannauman123/Winnnipeg-Urban-Planing-System",
+      "code": "https://github.com/hassannauman123/Winnnipeg-Urban-Planing-System/blob/main/project.java"
+    }
+  },
+  {
+    "name": "Research Paper Neural Networks",
+    "desc": "Comparative Analysis of Stochastic Gradient Descent (SGD) and Adam in Neural Network Optimization - Artificial Intelligence",
+    "image": "paper3",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/hassannauman123/Neural-Networks-Research-Paper/blob/main/README.md",
+      "code": "https://github.com/hassannauman123/Neural-Networks-Research-Paper/blob/main/Hassan_AI_Research_Paper.pdf"
+    }
+  },
+  {
+    "name": "Guess the Number Game",
+    "desc": "Classic game built using HTML, JS and CSS where players try to correctly guess a secret number chosen by the computer within a defined range.",
+    "image": "guessgame",
+    "category": "mern",
+    "links": {
+      "view": "https://hassannauman123.github.io/guessTheNumberGameByHassanNauman/",
+      "code": "https://github.com/hassannauman123/guessTheNumberGameByHassanNauman"
+    }
+  },
+  { 
+    "name": "weather-API-website",
+    "desc": "A user-friendly weather website leveraging OpenWeatherMap's API, where users can input any city to receive the current weather conditions, designed with Bootstrap for a responsive and intuitive interface",
+    "image": "weather",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/hassannauman123/weather-API-website",
+      "code": "https://github.com/hassannauman123/weather-API-website/blob/main/script.js"
+    }
+  },
+  {
+    "name": "Food Rating Prototype",
+    "desc": " A Food Rate & Review Prototype designed to refine my UI/UX skills, emphasizing usability goals, design principles, and human-computer interaction. Built using HTML, CSS, and JavaScrip",
+    "image": "food_rating",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/hassannauman123/Food-Rating-Prototype",
+      "code": "https://github.com/hassannauman123/Food-Rating-Prototype/blob/main/style.css"
+    }
+  }
+]
