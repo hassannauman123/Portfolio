@@ -22,7 +22,7 @@
   {
     "name": "Research Paper Neural Networks",
     "desc": "Comparative Analysis of Stochastic Gradient Descent (SGD) and Adam in Neural Network Optimization - Artificial Intelligence",
-    "image": "paper3",
+    "image": "paper3.png",
     "category": "mern",
     "links": {
       "view": "https://github.com/hassannauman123/Neural-Networks-Research-Paper/blob/main/README.md",
