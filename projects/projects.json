@@ -2,7 +2,7 @@
   {
     "name": "Subscription Tracker Android App",
     "desc": "Full-Stack Subscription Tracker built using Android Studio and HSQLDB for efficient data storage",
-    "image": "trackit",
+    "image": "assets/images/projects/trackit",
     "category": "mern",
     "links": {
       "view": "https://github.com/hassannauman123/Subscription-Tracker-Android-Application",
@@ -12,7 +12,7 @@
   {
     "name": "Winnipeg Urban-Planning System",
     "desc": "  A Java and SQL project that helps urban and regional planners analyze live data from the City of Winnipeg website to make informed decisions.",
-    "image": "sql",
+    "image": "assets/images/projects/sql.png",
     "category": "mern",
     "links": {
       "view": "https://github.com/hassannauman123/Winnnipeg-Urban-Planing-System",
