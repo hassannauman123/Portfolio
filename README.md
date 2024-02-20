@@ -23,10 +23,10 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+If you want to contact me, you can reach me out on LinkedIn.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/hassan-nauman-b95861163/"><img src="assets/images/LI-logo.png" width="30"></img></a>
 
-© 2022 Jigar Sable
+© 2024 Hassan Nauman
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
