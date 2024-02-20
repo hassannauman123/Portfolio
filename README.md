@@ -25,7 +25,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hassan-nauman-b95861163/"><img src="assets/images/android.jpg" width="30">``</img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hassan-nauman-b95861163/"><img src="assets/images/LI-logo.png" width="30">``</img></a>
 
 © 2022 Jigar Sable
 
